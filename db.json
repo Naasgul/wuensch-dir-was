@@ -1,24 +1,3 @@
 {
-  "lists": [
-    {
-      "id": 1,
-      "title": "Marie's List",
-      "wishes": ["Food", "Gin", "Comics"]
-    },
-    {
-      "id": 2,
-      "title": "Oma's List",
-      "wishes": ["Eggnog", "Truffles"]
-    },
-    {
-      "id": 3,
-      "title": "Moritz' List",
-      "wishes": ["Books", "Games"]
-    },
-    {
-      "id": 4,
-      "title": "Nils' List",
-      "wishes": ["Food", "Games"]
-    }
-  ]
+  "lists": []
 }
